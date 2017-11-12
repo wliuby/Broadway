@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  font: Helvetica;
+}
+
+#home {
+  background-image:
+  url("file:///Users/wayno/Documents/Projects/Broadway/Resources/Images/the-flatiron-building.png");
+}
+
+#home h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  font-size: 14px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#newyork {
+  background-image:
+  url("file:///Users/wayno/Documents/Projects/Broadway/Resources/Images/the-flatiron-building.png");
+  color: white;
+}
+
+nav {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 14px;
+}
+
+#test {
+  text-align: left;
+  font-size: 11px;
+  background-color: gray;
+  color: white;
+}
+
+nav {
+  font-size: 20px;
+}
